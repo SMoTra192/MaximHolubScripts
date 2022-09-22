@@ -1,7 +1,7 @@
 using System;
 namespace DefaultNamespace
 {
-    public abstract class Venicle
+    public abstract class Venicle2
     {
         public abstract string autovoice();
 
