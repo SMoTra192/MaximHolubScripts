@@ -1,6 +1,4 @@
 using System;
-using UnityEngine;
-
 namespace DefaultNamespace
 {
     public abstract class Venicle
